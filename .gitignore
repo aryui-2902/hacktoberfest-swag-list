@@ -1,0 +1,11 @@
+# mkdocs documentation
+/site
+
+# python
+.venv
+
+# editor
+.vscode
+
+# Mac
+.DS_Store
